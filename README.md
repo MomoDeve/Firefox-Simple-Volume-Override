@@ -1,5 +1,5 @@
-# Simple Volume Override
-### Firefox extension
+# Video Volumn Control - Firefox extension
+## Simply overrides volume of any website with a simple slider
 
 Some websites (like X / reddit) implement poor UI for controlling the video volume. 
 
